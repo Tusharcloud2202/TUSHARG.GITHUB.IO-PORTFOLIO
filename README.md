@@ -18,6 +18,11 @@ Assisted in cleaning and analyzing product feedback data using Excel and Python.
 
 Experienced in driving marketing campaigns, enhancing brand awareness, and boosting customer engagement through data storytelling, trend analysis, and actionable dashboards for business growth.
 
+Customer Support And Operations @Ruchir Gupta Training Accademy
+
+We engage with the GCD community by sharing stock forecasts and tech insights, collaborating with senior leaders to drive AI innovation and growth. Skilled in multichannel customer engagement, relationship building, onboarding, and loyalty programs.
+
+We use data-driven communication to enhance client retention and strengthen community connections throughout the customer journey.
 
 Projects
 
